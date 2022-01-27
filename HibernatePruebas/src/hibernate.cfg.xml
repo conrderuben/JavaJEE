@@ -12,6 +12,8 @@
 <mapping class="hibernate.entities.Persona"/>
 
 <mapping class = "hibernate.entities.Persona"/>
+<mapping class = "hibernate.entities.Pais"/>
+<mapping class = "hibernate.entities.Aficion"/>
 </session-factory>
 
 </hibernate-configuration>
